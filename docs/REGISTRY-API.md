@@ -11,8 +11,6 @@
 - [Endpoints](#endpoints)
   - [Meta Endpoints](#meta-endpoints)
     - [`GET·/`](#get)
-    - [`GET·/-/all`](#get-all)
-    - [`GET·/-/`]
   - [Package Endpoints](#package-endpoints)
     - [`GET·/{package}`](#getpackage)
     - [`GET·/{package}/{version}`](#getpackageversion)
